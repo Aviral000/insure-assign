@@ -97,4 +97,4 @@ No SQL or Pandas: The assignment was explicitly implemented using basic data str
 Server Ports:
 Backend: http://localhost:5000
 Frontend: http://localhost:3000
-Feel free to modify the code as needed. If you encounter any issues, please consult the setup instructions again or reach out for help.
+Feel free to modify the code as needed. If you encounter any issues, please consult the setup instructions again or reach out for help.(only use vs code otherwise change the frontend url accordingly)
